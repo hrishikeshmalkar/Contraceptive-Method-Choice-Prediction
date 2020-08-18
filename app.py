@@ -303,7 +303,7 @@ def main():
 	if choice == 'About':
 		st.subheader("About")
 		st.markdown("""
-			#### Salary Predictor ML App
+			#### CMC Predictor ML App
 			##### Built with Streamlit
 
 			#### By
